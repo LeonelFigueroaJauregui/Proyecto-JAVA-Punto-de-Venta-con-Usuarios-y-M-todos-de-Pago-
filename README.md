@@ -74,4 +74,4 @@ Academic project for demonstrating GUI development, inventory systems, and payme
 ---
 
 ## ✍️ Author
-Developed by **[Leonel Figueroa Jauregui, Maria Jose Camarena Lomeli , Gustavo Sanchez ]**
+Developed by **[Leonel Figueroa Jauregui, Maria Jose Camarena Lomeli , Gustavo Sanchez de Tagle Carmona ]**
