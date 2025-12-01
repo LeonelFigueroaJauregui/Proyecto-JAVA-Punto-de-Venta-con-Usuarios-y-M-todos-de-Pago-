@@ -129,9 +129,9 @@ Sistema Operativo: Windows, linux o MacOs
 
 ## Autor
 
--Leonel Figueroa Jauregui
--Maria Jose Camarena Lomeli
--Gustavo Sanchez de Tagle Carmona
+-Leonel Figueroa Jauregui <br>
+-Maria Jose Camarena Lomeli <br>
+-Gustavo Sanchez de Tagle Carmona <br>
 Ingeniería en Computación – CUAltos, Universidad de Guadalajara
 
 ## Licencia
